@@ -1,0 +1,42 @@
+.navbar {
+    position: fixed;
+}
+nav{
+    font-size: 2rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:black;
+    align-content: center;
+    overflow: hidden;
+    position: fixed ;
+    
+}
+#longBar{
+    width: 100%;
+}
+ li{
+     padding: 0 170px
+ }
+h1{
+    font-size: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 0 0 0 750px 
+    
+}
+p {
+font-size: 3rem;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+padding: 0 0 0 0 }
+.puppy{
+    height: 50vh;
+}
+
+body{
+background-color:#386153;
+}
+.centerText{
+   text-align: center;
+
+}
+div img{
+width: 50%
+}
